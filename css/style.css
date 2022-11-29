@@ -1,0 +1,48 @@
+
+
+body {
+    margin: 0 auto;
+    padding: 0;
+    min-height: 100vh;
+    max-width: 950px;
+}
+
+#header li {
+    display: inline; 
+    margin: 55px;
+    text-align: center;
+    font-size: 15px;
+}
+#header, #qualities, #experience, #education, #example {
+    border-bottom: 5px solid blue;
+}
+h1 {
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ #about li {
+    display: block; 
+    margin: 15px;
+    margin: 0 auto;
+    text-align: center
+    
+   
+ }
+ #foto {
+    display: block; ;
+    margin: 0 auto;
+    text-align: center;
+ }
+ footer {
+    width: 100%; 
+    margin: 0 auto; 
+    text-align: center;
+ }
+ footer a:nth-of-type(5) {
+    display: block;
+    text-decoration: black;
+    font-size: 30px;
+    background: linear-gradient(0deg, yellow, blue);
+ }
+ 
